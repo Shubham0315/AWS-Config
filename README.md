@@ -14,6 +14,7 @@ Practical Demo
   - Inside instances - Monitoring - Manage Detailed Monitoring - Enabled
  
 <img width="962" alt="image" src="https://github.com/user-attachments/assets/e2f0f0ca-94fd-4116-af20-47d85ef048d2" />
+
 ![image](https://github.com/user-attachments/assets/81af9126-aead-4b27-93ff-6a3826b74115)
 
 
