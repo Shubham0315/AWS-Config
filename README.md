@@ -58,4 +58,18 @@ Practical Demo
 
   - Save the rule
 
+- Whenever the EC2 gets any action, this config rule is triggered which will trigger the lambda function written.
+
+- While creating lambda function, use existing role
+
+![image](https://github.com/user-attachments/assets/0a9fb118-c1b4-4022-820d-5da66ae96411)
+
+- If we create fucntion default one, we can go to config, the default role will be created
+
+![image](https://github.com/user-attachments/assets/ac4495c6-1675-4f57-b70c-6da85505c89c)
+
+  - Go to it and provide permissions - Add below listed permissions to role
+
+![image](https://github.com/user-attachments/assets/e762fd90-8e7e-4e10-8480-3503ee922108)
+
 
