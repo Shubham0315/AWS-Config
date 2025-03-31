@@ -14,7 +14,8 @@ Practical Demo
   - Inside instances - Monitoring - Manage Detailed Monitoring - Enabled
  
 <img width="962" alt="image" src="https://github.com/user-attachments/assets/e2f0f0ca-94fd-4116-af20-47d85ef048d2" />
-![image](https://github.com/user-attachments/assets/b4980e0c-9741-4c0f-8bf8-16f8750efe51)
+![image](https://github.com/user-attachments/assets/81af9126-aead-4b27-93ff-6a3826b74115)
+
 
   - If any of our EC2 is not adhering to this rule, it is out of compliance. 
   - So we've created 2 instances, one is adhering the rule while other isn't
